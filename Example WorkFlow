@@ -1,0 +1,4 @@
+Example Workflow
+Input: Folder with mixed files
+Output: Files automatically sorted into folders (e.g., .jpg, .txt)
+Log file records all actions performed
