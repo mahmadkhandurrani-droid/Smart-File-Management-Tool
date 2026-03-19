@@ -1,0 +1,4 @@
+Future Improvements
+Add duplicate file detection
+Implement dry-run mode
+Add error handling for large-scale operations
